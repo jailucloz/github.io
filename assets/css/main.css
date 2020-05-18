@@ -1805,7 +1805,7 @@
 		}
 
 		section.wrapper.style1, article.wrapper.style1 {
-			background: #03e987;
+			background: #1cccca;
 			color: white;
 		}
 
@@ -2932,7 +2932,7 @@
 
 /* Banner */
 
-	#banner {
+	/* #banner {
 		padding: 32em 0 10em 0;
 		background-image: url('../../images/haircut.jpg');
 		background-size: cover;
@@ -2942,7 +2942,29 @@
 		text-align: left;
 		border-top: 0.5em solid #03e987;
 
+	} */
+
+	.logo-fastyle {
+	    max-width: 100px;
 	}
+
+
+	#main-header {
+
+background: #1cccca;
+
+    width: 100%;
+
+    left: 0;
+
+    top: 0;
+
+position: absolute;
+padding: 10px;
+
+
+
+}
 
 		#banner h1 {
 			font-size: 3.5em;
@@ -3084,4 +3106,42 @@
     width: 100px;
     height: 100px;
     margin-right: -20px
+}
+
+.social .icon {
+    font-size: 25px;
+    margin-left: 5px;
+}
+
+.banner-1 {
+
+    width: 25%;
+
+
+}
+
+.banner-2{
+
+    width: 25%;
+
+
+}
+
+
+.body-ads{
+    display: flex;
+  justify-content: center;
+	  /* align-items: center; */
+
+
+}
+
+.team-2 .person {
+
+    margin: 0 auto;
+}
+
+
+.body-ads > div {
+    width: 50%
 }
