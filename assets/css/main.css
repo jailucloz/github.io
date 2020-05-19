@@ -3120,6 +3120,8 @@ padding: 10px;
 
 }
 
+
+
 .banner-2{
 
     width: 25%;
@@ -3127,17 +3129,12 @@ padding: 10px;
 
 }
 
-
-
 .body-ads{
     display: flex;
-		display: inline-flex;
-
   justify-content: center;
-	  /* align-items: center; */
-
 
 }
+
 
 .team-2 .person {
 
