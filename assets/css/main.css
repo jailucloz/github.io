@@ -2551,7 +2551,7 @@
 		background-color: #5a5a5a;
 		border-radius: 0;
 		border: 0;
-		color: #ffffff !important;
+		color: #1cccca !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 600;
@@ -2660,7 +2660,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #03e987;
+			background-color: #1cccca;
 			color: #ffffff !important;
 		}
 
@@ -3150,4 +3150,13 @@ padding: 10px;
 
 ul {
     text-align: left;
+}
+
+.button-visite{
+    display: flex;
+    margin: 0;
+}
+
+.button{
+    margin: auto;
 }
